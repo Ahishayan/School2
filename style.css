@@ -1,0 +1,56 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+html {
+    text-align: center;}
+    
+.contact_1  {
+background-color: #B0C4DE;
+}
+#video {
+background-color: #B0C4DE;
+}
+.travel_megamind {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_megamind img {
+    width: 100%;
+}
+
+.travel_megamind hr {
+    width: 230px;
+}
+
+.travel_megamind h5,
+.travel_megamind p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+} 
